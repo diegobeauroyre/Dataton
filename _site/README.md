@@ -1,7 +1,7 @@
-agentes
+Dataton
 =======
 
-Página de pre-lanzamiento de la iniciativa de "Agentes de Innovación".
+Página de convocatoria "Dataton".
 
 Dependencias:
 * Jekyll: Generador de páginas estáticas
