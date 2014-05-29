@@ -13,20 +13,21 @@ body.landing {
 
 .section1 {
   background-color: #f1f1f1;
+  background-image:url("../img/texturafondoANI.gif");
     width: 100%;
-    color:#fff;
+    color:#333;
 
 }
 
 .section2 {
-  background-color: #f1f1f1;
+  background-color: #333;
     width: 100%;
     color: #333;
 
 }
 
 .section3 {
-  background-color: #9ef0d9;
+  background-color: #f1f1f1;
     width: 100%;
     font-size: 14px;
         color:#5a5c70;
@@ -35,7 +36,7 @@ body.landing {
 }
 
 .footer {
-  background-color: #383a4f;
+  background-color: #333;
     width: 100%;
     text-align:center;
 
@@ -197,8 +198,8 @@ a:link, a:visited, a:hover, a:active {
   border-width: 0 0 1px;
 }
 .navbar-inverse {
-  background-color: #383a4f;
-  border-color: #383a4f;
+  background-color: #333;
+  border-color: #333;
 }
 
 .navbar-brand {
@@ -224,13 +225,23 @@ margin-left:40px;
 }
 
 .logo {
-  padding: 10px 5px;
+  padding-top: 15px;
   height: auto;
 }
 
 
 /*** Layout ***/
 
+
+.content-tagline {
+    background-color:#f1f1f1;
+  max-width: 600px;
+    height: 300px;
+  padding: 30px;
+  margin: 98px auto;
+  font-size: 18px;
+  text-align:center;
+}
 
 .content-wrapper {
   max-width: 720px;
