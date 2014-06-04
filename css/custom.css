@@ -20,23 +20,27 @@ body.landing {
 }
 
 .section2 {
-  background-color: #333;
+    background-color: #666;
     width: 100%;
-    color: #333;
+    color: #fff;
 
 }
 
 .section3 {
+    background-color: #333;
+    width: 100%;
+    color: #fff;
+}
+
+.section4 {
   background-color: #f1f1f1;
     width: 100%;
     font-size: 14px;
         color:#5a5c70;
-
-
 }
 
 .footer {
-  background-color: #333;
+   background-color: #333;
     width: 100%;
     text-align:center;
 
@@ -48,14 +52,14 @@ body.page {
 
 h1 {
   font-size: 28px;
-    color: #ff5046;
+    color: #333;
     text-transform:uppercase;
-    font-weight:900;
+    font-weight:1200;
 }
 
 h2 {
   font-size: 28px;
-  color: #5a5c70;
+  color: #333;
     margin-bottom: 1em;
 margin-top: 1em;
 }
@@ -71,11 +75,9 @@ text-align:center;
 }
 
 h4 {
-  font-size: 20px;
-    color: #ff5046;
+  font-size: 24px;
+    color: #f1f1f1;
     margin-top: 2em;
-
-    
 }
 
 p {
@@ -269,7 +271,8 @@ body.page .content {
 
 
 body.landing .content {
-  text-align: center;
+  text-align: left;
+    font-size:14px;
 
 }
 
@@ -328,3 +331,7 @@ text-align:left;
     text-align:center;
 }
 
+table {
+    width: 100%;
+    color: #fff;
+}
